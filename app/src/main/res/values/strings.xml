@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">NaviStyle</string>
+    <string name="cancion_1">Noche de Paz</string>
+    <string name="cancion_2">Bienvenida la Navidad</string>
+    <string name="cancion_3">Niño Manuelito</string>
+    <string name="cancion_4">Papanoel ya viene</string>
+    <string name="cancion_5">Los Pastorsitos</string>
+    <string name="cancion_6">Burrito Sabanero</string>
+    <string name="cancion_7">Los Reyes Magos</string>
+    <string name="cancion_8">Qué Emoción</string>
+
+    <string name="posicion_1">1</string>
+    <string name="posicion_2">2</string>
+    <string name="posicion_3">3</string>
+    <string name="posicion_4">4</string>
+    <string name="posicion_5">5</string>
+    <string name="posicion_6">6</string>
+    <string name="posicion_7">7</string>
+    <string name="posicion_8">8</string>
+    <string name="posicion_9">9</string>
+    <string name="posicion_10">10</string>
+
+    <string name="receta_1">PANETON</string>
+    <string name="receta_2">GALLETAS DE CHOCOLATE NAVIDEÑAS</string>
+    <string name="receta_3">BUÑUELOS</string>
+    <string name="receta_4">ROSCA NAVIDEÑA</string>
+    <string name="receta_5">TORTA NEGRA DE NAVIDAD</string>
+    <string name="receta_6">GALLETAS DE ESPECIAS Y FRUTAS</string>
+    <string name="receta_7">PAN DE JAMON DE NAVIDAD</string>
+
+    <string name="rec1_ingr1">2 Tazas de harina cernida</string>
+    <string name="rec1_ingr2">1/4 Azucar granulada</string>
+    <string name="rec1_ingr3">2 Cucharillas de polvo de hornear</string>
+    <string name="rec1_ingr4">3 Cucharadas de Cocoa en polvo</string>
+    <string name="rec1_ingr5">2 Huevos</string>
+    <string name="rec1_ingr6">3/4 Paquete de mantequilla</string>
+    <string name="rec1_ingr7">7 Cucharadas de miel</string>
+    <string name="rec1_ingr8">6 Cucharadas de nueces trituradas</string>
+    <string name="rec1_ingr9">6 Cucharadas de fruta abrillantada</string>
+    <string name="rec1_ingr10"> </string>
+    <string name="rec1_ingr11"> </string>
+    <string name="rec1_ingr12"> </string>
+    <string name="rec1_ingr13"> </string>
+
+    <string name="rec1">Colocar 2 tazas al ras de harina cernida,
+luego de la harina añadir 1/4 taza de azucar granulado,
+añadir 2 cucharillas de polovo de hornear,
+colocar 3 cucharadas de cocoa en polvo para darle color a la galleta,
+mezclar todos los ingredientes hasta establecer iniformidad,
+añadir 2 huevos enteros, preparar en una sarten 3/4 de mantequilla de derretida,
+verter la matequilla derritida, añadir 7 cucharadas de miel
+mezclar los ingredientes en bol,
+añadir a la masa 6 cucharadas de fruta abrillantada y 6 cucharadasnueces trituradas previamente,
+una vez puesto los ingredientes empezar a formar una masa,
+mezclar hasta obtener una masa suave, homogenea y uniforme,
+colocar la masa en tabla harinada y empezar a estirar con un uslero hasta obtener 1/2 centimetro de grosor,
+cortar la masa con moldes navideños,
+ acomodar en la plancha previamente enmantecada y enharinada, dejar reposar durante 10 minutos,
+final mentehornee aprximadamente unos 10 minutos.</string>
+
+    <string name="rec2_ingr1">2 Tazas de harina cernida</string>
+    <string name="rec2_ingr2">1/4 Azucar granulada</string>
+    <string name="rec2_ingr3">2 Cucharillas de polvo de hornear</string>
+    <string name="rec2_ingr4">3 Cucharadas de Cocoa en polvo</string>
+    <string name="rec2_ingr5">2 Huevos</string>
+    <string name="rec2_ingr6">3/4 Paquete de mantequilla</string>
+    <string name="rec2_ingr7">7 Cucharadas de miel</string>
+    <string name="rec2_ingr8">6 Cucharadas de nueces trituradas</string>
+    <string name="rec2_ingr9">6 Cucharadas de fruta abrillantada</string>
+    <string name="rec2_ingr10"> </string>
+    <string name="rec2_ingr11"> </string>
+    <string name="rec2_ingr12"> </string>
+    <string name="rec2_ingr13"> </string>
+    <string name="rec2_ingr14"> </string>
+    <string name="rec2">Colocar 2 tazas al ras de harina cernida,
+luego de la harina añadir 1/4 taza de azucar granulado,
+añadir 2 cucharillas de polovo de hornear,
+colocar 3 cucharadas de cocoa en polvo para darle color a la galleta,
+mezclar todos los ingredientes hasta establecer iniformidad,
+añadir 2 huevos enteros, preparar en una sarten 3/4 de mantequilla de derretida,
+verter la matequilla derritida, añadir 7 cucharadas de miel
+mezclar los ingredientes en bol,
+añadir a la masa 6 cucharadas de fruta abrillantada y 6 cucharadasnueces trituradas previamente,
+una vez puesto los ingredientes empezar a formar una masa,
+mezclar hasta obtener una masa suave, homogenea y uniforme,
+colocar la masa en tabla harinada y empezar a estirar con un uslero hasta obtener 1/2 centimetro de grosor,
+cortar la masa con moldes navideños,
+acomodar en la plancha previamente enmantecada y enharinada, dejar reposar durante 10 minutos,
+final mentehornee aprximadamente unos 10 minutos.</string>
+
+    <string name="rec3_ingr1">3 Tazas de harina cernida</string>
+    <string name="rec3_ingr2">3 Cucharadas de levadura</string>
+    <string name="rec3_ingr3">1/2 Cucharilla de anís</string>
+    <string name="rec3_ingr4">1 Cucharilla de azucar</string>
+    <string name="rec3_ingr5">1/2 Cucharilla de sal</string>
+    <string name="rec3_ingr6">2 Huevos</string>
+    <string name="rec3_ingr7">1 Taza de agua tibia</string>
+    <string name="rec3_ingr8">1 taza de agua tibia con sal</string>
+    <string name="rec3_ingr9"> </string>
+    <string name="rec3_ingr10"> </string>
+    <string name="rec3_ingr11"> </string>
+    <string name="rec3_ingr12"> </string>
+    <string name="rec3_ingr13"> </string>
+    <string name="rec3_ingr14"> </string>
+    <string name="rec3">Colocar en un bol 3 tazas de harina cernida,
+preparar en una taza con agua tibia 3 cucharillas de levadura fresca,
+agregar 1/2 cucharilla de anís sobre la harina cernida,
+agregar una cucharilla de azucar,
+agragar media cucharilla de sal,
+mezclar con una cuchara de madera hasta obtener uniformidad,
+agregar 2 huevos enteros o puede agregar huevos batidos,
+agragar la levadura preparada(preparar en uan taza con agua tibia),
+mezclar y poner el agua tibia si hace falta, empezar a batir durante 7 minutos con la cuchara de madera,
+preparar una taza con sal y remoje las yemas de los dedos una y otra vez,
+tomar una porcion de la masa como de un puño y estirarla hasta obtener hoyuelos.</string>
+
+    <string name="rec4_ingr1">10 Tazas de harina cernida</string>
+    <string name="rec4_ingr2">1 Cucharrilla de sal</string>
+    <string name="rec4_ingr3">2 Tazas de azucar granulado</string>
+    <string name="rec4_ingr4">2 Cucharillas de canela molida</string>
+    <string name="rec4_ingr5">2 Paquetes de mantequilla</string>
+    <string name="rec4_ingr6">4 Huevos</string>
+    <string name="rec4_ingr7">2 Coopas de singani</string>
+    <string name="rec4_ingr8">1 Taza de leche tibia</string>
+    <string name="rec4_ingr9">1 Taza de nueces</string>
+    <string name="rec4_ingr10">1 Taza de almendras</string>
+    <string name="rec4_ingr11">1 Taza de pasas</string>
+    <string name="rec4_ingr12">1 Taza de fruta abrillantada </string>
+    <string name="rec4_ingr13"> </string>
+    <string name="rec4_ingr14"> </string>
+    <string name="rec4">
+En un bol colocar 10 tazas de harina cernida,
+agregar una cicharilla de sal,
+agregar dos tazas al ras de azucar granulada,
+agregar 2 cucharillas de canela molida,
+preparar en un sarten 2 paquetes de mantequilla derretida,
+agregar sobre la harina 4 huevos enteros,
+agregar sobre los ingredientes la mantequilla derretida,
+verter dos copas de singani,
+verter 1 taza de leche tibia,
+preparar en un bol aparte la taza de almendras, pasas y fruta abrillantada,
+mezclar con una cuchara de madera hasta obtener una masa suave,
+vaciar el bol de almendras, pasas, fruta abrillantada sobre la masa,
+mezclar la masa hasta obtener uniformidad,
+realizar una tira de aproximadamente 60 centimetros sobre una tabla enharinada,
+trensar la tira, luego unir las puntas,
+enharina la placa del horno previamente enmantecada,
+colocar la masa sobre la placa,
+poner al horno durante unos 15 a 25 minutos. </string>
+
+    <string name="rec5_ingr1">1/2 Paquete de mantequilla o margarina</string>
+    <string name="rec5_ingr2">3/4 Tazas de azucar </string>
+    <string name="rec5_ingr3">5 Huevos</string>
+    <string name="rec5_ingr4">2 Cucharrillas de royal</string>
+    <string name="rec5_ingr5">1 Taza de miel de caña</string>
+    <string name="rec5_ingr6">1 Taza de almendras picadas</string>
+    <string name="rec5_ingr7">1 Taza de fruta abrillantada</string>
+    <string name="rec5_ingr8">1 Taza de pasas sin pepas</string>
+    <string name="rec5_ingr9">1/4 Extracto de café</string>
+    <string name="rec5_ingr10">1 y 3/4 Tazas de harina</string>
+    <string name="rec5_ingr11">1 Cuchrarilla de canela molida</string>
+    <string name="rec5_ingr12">1/2 Cucharilla de clavo de olor molido</string>
+    <string name="rec5_ingr13">1/2 Taza de pisco o singani</string>
+    <string name="rec5_ingr14"> </string>
+    <string name="rec5">
+Dia antes de la preparacion poner la fruta abrillantada, las almedras en un tazon,
+rociar con el singani y dejar reposar toda la noche,
+al dia siguiente batir la mantequilla con el azucar e ir agregando uno a uno los huevos hasta que se aga una crema,
+añadir el extracto de café  miel, seguir batiendo,
+agregar las frutas almendras y pasas que estan maseradas,
+añadir la harina poco a poco, royal, canela y clavo de olor,
+forrar un molde redonde de 30 centimetros de diametro con papel estañado,
+engrasarlo y vaciar a la masa,
+llevar a horno moderado y dejar 40 minutos mas o menos hasta que vea que ya este cocido
+sacar del horno y cuando este caliente rociar con cualquier licor
+finalmente adormanarl al gusto.</string>
+
+    <string name="rec6_ingr1">1 Taza de azucar</string>
+    <string name="rec6_ingr2">1/2 Taza de miel de chancaca</string>
+    <string name="rec6_ingr3">1/2 paquete de matequilla</string>
+    <string name="rec6_ingr4">3 y 1/2 Tazas de harina</string>
+    <string name="rec6_ingr5">1 Huevo</string>
+    <string name="rec6_ingr6">1 Cucharilla de bicarbonato</string>
+    <string name="rec6_ingr7">1/2 Cucharilla de sal</string>
+    <string name="rec6_ingr8">1 Cucharilla de canela en polvo</string>
+    <string name="rec6_ingr9">1/2 Cucharilla de clavo de olor en polvo</string>
+    <string name="rec6_ingr10">1 Taza de pasas sin pepa</string>
+    <string name="rec6_ingr11">1 Taza de nueces finamente picadas</string>
+    <string name="rec6_ingr12">1/2 Taza de fruta abrillantada</string>
+    <string name="rec6_ingr13"> </string>
+    <string name="rec6_ingr14"> </string>
+    <string name="rec6">
+Batir la mantequilla con el azucar a punto crema,
+agregar los huevos y la miel batiendo muy bien,
+añadir los ingrediente secos previamente cernidos,
+agregar las pasas, fruta abrillantada y amasar todo junto,
+estirar la masa con un uslero hasta que quede medio centimetro de grosor,
+cortar la masa con moldes navideños,
+acomodar en la plancha previamente enmantecada y enharinada, dejar reposar durante 10 minutos,
+final mentehornee aprximadamente unos 10 minutos</string>
+
+    <string name="rec7_ingr1">1 kilo de harina</string>
+    <string name="rec7_ingr2">3 Cucharadas de manteca</string>
+    <string name="rec7_ingr3">12 Litro de agua tubia</string>
+    <string name="rec7_ingr4">2 Cucharadas de azucar</string>
+    <string name="rec7_ingr5">1 Cucharilla de sal</string>
+    <string name="rec7_ingr6">2 Huevos</string>
+    <string name="rec7_ingr7">1 Cucharada de levadura</string>
+    <string name="rec7_ingr8">1/2 Kilo de jamon</string>
+    <string name="rec7_ingr9">1/2 Kilo de nueces</string>
+    <string name="rec7_ingr10">1 Paquete de tocino ahumado</string>
+    <string name="rec7_ingr11">1/2 Kilo de pasas</string>
+    <string name="rec7_ingr12">1/2 Kilo de aceitunas verdes</string>
+    <string name="rec7_ingr13"> </string>
+    <string name="rec7_ingr14"> </string>
+    <string name="rec7">
+Disolver el azucar en una taza de agua tibia con la levadura y un poco de harina,
+dejar reposar hasta que le levante un poco,
+añadir el resto de agua, sal, harina, y manteca, amasar bastante hasta formar una masa suave,
+dejar reposar en un lugar abrigado hasta que doble su volumen,
+amasar nuevamente y dividir en tres porciones,
+estirar cada una de ellas en forma rectangular
+se derrite un poco el tocino y se baña la masa con el aceite del tocino,
+rellenar luego con las tiras de tocino, el jamon, aceitunas, pasas y nueces,
+cerrar en forma de rollo y dejar madurar hasta que se hinche,
+poner en una lata de hornear engrasada,
+pasar la masa con claras de huevo y meter al horno,
+dejar en el horno hasta que la masa este cocida,
+cortar en pequeños rollos y se come caliente.</string>
+</resources>

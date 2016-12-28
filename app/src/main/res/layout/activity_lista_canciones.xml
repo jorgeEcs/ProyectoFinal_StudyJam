@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_lista_canciones"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d4f9d9"
+    tools:context="com.example.usuario.proyecto_gdg.Lista_canciones">
+    <ListView
+        android:id="@+id/lvLista_cancion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:elevation="3dp"
+        android:background="@drawable/fondo_lista"/>
+</RelativeLayout>
